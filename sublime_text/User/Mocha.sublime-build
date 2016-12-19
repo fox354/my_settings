@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "mocha -t 10000 $file",
+  "shell": true,
+}
