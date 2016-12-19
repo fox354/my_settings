@@ -1,0 +1,355 @@
+﻿# For documentation, see http://blog.kowalczyk.info/software/sumatrapdf/settings2.6.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+	PrintAsImage = false
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+AnnotationDefaults [
+	HighlightColor = #ffff60
+	SaveIntoDocument = true
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = ru
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 1
+WindowPos = -7 0 974 1040
+ShowToc = true
+SidebarDx = 0
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = D:\Users\Snull\Desktop\Проект.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 718
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Snull\AppData\Roaming\Skype\My Skype Received Files\DikarievOleksandr.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Snull\AppData\Local\Temp\6010051421-2016.10.16.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\медицо-социальная адаптация\для практики\Rasporyazenie_pravitelstva_30_12_2005_2347_r.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\медицо-социальная адаптация\для практики\Prikaz_ministerstva_zdravoohraneniya_04_08_2008_379n.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\медицо-социальная адаптация\для практики\Federalni_zakon_24_11_1995_181_FZ.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 96
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Videos\ШТА Вебинары\ШТА7.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 331
+		PageNo = 22
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Videos\ШТА Вебинары\ШТА6.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 356
+		PageNo = 12
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Videos\ШТА Вебинары\ШТА4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Videos\ШТА Вебинары\ШТА3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 469
+		PageNo = 15
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -7 0 974 1047
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Videos\ШТА Вебинары\ШТА1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 430
+		PageNo = 18
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 960 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Snull\AppData\Roaming\Skype\My Skype Received Files\Страуструп. Язык C++. 3-е издание(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 583
+		PageNo = 129
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 0 0 960 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Desktop\pd.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 57 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 558 0 803 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Users\Snull\Desktop\SB_ank_obrazec_home.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 558 0 803 1040
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 310

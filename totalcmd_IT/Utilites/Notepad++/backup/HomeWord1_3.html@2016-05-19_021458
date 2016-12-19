@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Деменев Андрей</title>
+</head>
+<body>
+<script>
+var a,b,c,x,y;
+x=parseInt(prompt());
+a=2;
+b=-1;
+c=4;
+y=a*Math.pow(x,2)+b*x+c;
+alert("\"При x="+x+" формула "+"\"y=("+a+")*x^2+("+b+")*x+("+c+")\", равна "+y+"\"")
+</script>
+</body>
+</html>
+
+http://s018.radikal.ru/i502/1605/8c/659b62a6c10a.png

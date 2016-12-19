@@ -1,0 +1,20 @@
+var a,b,c;
+a=parseInt(prompt('Введите число A'));
+b=parseInt(prompt('Введите число B'));
+document.write('Число A='+a+'</br>Число B='+b+'</br>')
+if (a>=b) {
+	while (a%b!=0) {
+	c=a%b;
+	a=b;
+	b=c;
+	}
+	document.write('НОД='+b);
+}
+else {
+	while (b%a!=0) {
+	c=b%a;
+	b=a;
+	a=c;
+	};
+	document.write('НОД='+a);
+}

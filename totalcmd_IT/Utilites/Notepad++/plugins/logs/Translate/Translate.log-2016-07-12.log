@@ -1,0 +1,22 @@
+﻿12.07.2016 0:38:31    Information    ################ Translate plugin (Version: 3.1.1.0) initializing...
+12.07.2016 0:38:31    Information    BEGIN -- migrateIfRequired
+12.07.2016 0:38:31    Information    Installed version (3.1.1.0) 
+12.07.2016 0:38:31    Information    END -- migrateIfRequired
+12.07.2016 0:38:31    Information    OSVersion: Microsoft Windows NT 6.1.7601 Service Pack 1
+12.07.2016 0:38:31    Information    Is64Bit: True
+12.07.2016 0:38:31    Information    .NET (CLR) Version: 2.0.50727.5472
+12.07.2016 0:38:31    Information    Default Language Info:
+12.07.2016 0:38:31    Information     * Name: ru-RU
+12.07.2016 0:38:31    Information     * Display Name: Русский (Россия)
+12.07.2016 0:38:31    Information     * English Name: Russian (Russia)
+12.07.2016 0:38:31    Information     * 2-letter ISO Name: ru
+12.07.2016 0:38:31    Information     * 3-letter ISO Name: rus
+12.07.2016 0:38:31    Information     * 3-letter Win32 API Name: RUS
+12.07.2016 0:38:31    Information    Current Culture Info:
+12.07.2016 0:38:31    Information     * Name: ru-RU
+12.07.2016 0:38:31    Information     * Display Name: Русский (Россия)
+12.07.2016 0:38:31    Information     * English Name: Russian (Russia)
+12.07.2016 0:38:31    Information     * 2-letter ISO Name: ru
+12.07.2016 0:38:31    Information     * 3-letter ISO Name: rus
+12.07.2016 0:38:31    Information     * 3-letter Win32 API Name: RUS
+12.07.2016 1:22:36    Information    ################ Translate plugin cleaning up

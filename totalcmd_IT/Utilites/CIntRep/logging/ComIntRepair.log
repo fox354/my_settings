@@ -1,0 +1,275 @@
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(_)-oOOo--------------------------------------
+[11/05/2015 14:38:56] You will need to reboot your computer before the settings will take effect.
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:38:59] Reboot Canceled.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:11] Resetting all TCP/IP Interfaces, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:12] TCP/IP interfaces reset successful.
+[11/05/2015 14:39:12] TCP/IP v6 interfaces reset successful.
+[11/05/2015 14:39:12] You may need to restart your computer for the settings to take effect.
+[11/05/2015 14:39:12] Finished resetting the Internet Protocol (TCP/IP).
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:12] Attempting to reset Winsock catalog, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Successfully reset the Winsock Catalog.
+[11/05/2015 14:39:13] Finished repairing Winsock
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Releasing TCP/IP connections, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Successfully released TCP/IP connections.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Renewing TCP/IP connections, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Successfully renewed TCP/IP adapters.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:13] Configuring the Windows Event Log Service, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:14] Windows Event Log Service Configured.
+[11/05/2015 14:39:14] Starting the Windows Event Log Service.....
+[11/05/2015 14:39:14] Windows Event Log Service Started Successfully.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:14] Flushing DNS Resolver Cache, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:14] Successfully flushed DNS Resolver Cache.
+[11/05/2015 14:39:14] Refreshing all DHCP leases and re-registering DNS names, Please wait.....
+[11/05/2015 14:39:21] Registration of the DNS resource records has been initiated.
+[11/05/2015 14:39:21] Note: Any errors will be reported in the 'Event Viewer' in about 15 minutes.
+[11/05/2015 14:39:21] Note: Click on 'File' and then 'Event Viewer...' to open the Event Viewer.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:21] Repairing Internet Explorer 11.0.9600, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:21] RegSvr32.exe: "C:\Program Files\Internet Explorer\DiagnosticsHub_is.dll"' registration succeeded.
+[11/05/2015 14:39:21] RegSvr32.exe: "C:\Program Files\Internet Explorer\DiagnosticsTap.dll"' registration succeeded.
+[11/05/2015 14:39:22] RegSvr32.exe: "C:\Program Files\Internet Explorer\F12.dll"' registration succeeded.
+[11/05/2015 14:39:22] RegSvr32.exe: "C:\Program Files\Internet Explorer\F12Tools.dll"' registration succeeded.
+[11/05/2015 14:39:22] RegSvr32.exe: "C:\Program Files\Internet Explorer\hmmapi.dll"' Specified module not found
+[11/05/2015 14:39:22] RegSvr32.exe: "C:\Program Files\Internet Explorer\iedvtool.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\ieproxy.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\msdbg2.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\pdm.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\pdmproxy100.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\perf_nt.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\perfcore.dll"' registration succeeded.
+[11/05/2015 14:39:23] RegSvr32.exe: "C:\Program Files\Internet Explorer\Timeline_is.dll"' registration succeeded.
+[11/05/2015 14:39:24] RegSvr32.exe: actxprxy.dll' registration succeeded.
+[11/05/2015 14:39:24] RegSvr32.exe: asctrls.ocx' Specified module not found
+[11/05/2015 14:39:24] RegSvr32.exe: browseui.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:24] RegSvr32.exe: cdfview.dll' Specified module not found
+[11/05/2015 14:39:24] RegSvr32.exe: comcat.dll' registration succeeded.
+[11/05/2015 14:39:24] RegSvr32.exe: comctl32.dll' registration succeeded.
+[11/05/2015 14:39:24] RegSvr32.exe: corpol.dll' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: cryptdlg.dll' registration succeeded.
+[11/05/2015 14:39:25] RegSvr32.exe: "C:\Program Files\Internet Explorer\custsat.dll"' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: digest.dll' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: dispex.dll' registration succeeded.
+[11/05/2015 14:39:25] RegSvr32.exe: dxtmsft.dll' registration succeeded.
+[11/05/2015 14:39:25] RegSvr32.exe: dxtrans.dll' registration succeeded.
+[11/05/2015 14:39:25] RegSvr32.exe: extmgr.dll' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: "C:\Program Files\Internet Explorer\hmmapi.dll"' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: hlink.dll' registration succeeded.
+[11/05/2015 14:39:25] RegSvr32.exe: ieaksie.dll' Specified module not found
+[11/05/2015 14:39:25] RegSvr32.exe: ieapfltr.dll' Error number: 0x80070005
+[11/05/2015 14:39:25] RegSvr32.exe: iedkcs32.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:25] RegSvr32.exe: "C:\Program Files\Internet Explorer\iedvtool.dll"' registration succeeded.
+[11/05/2015 14:39:26] RegSvr32.exe: iedvtool.dll' Specified module not found
+[11/05/2015 14:39:26] RegSvr32.exe: ieframe.dll' registration succeeded.
+[11/05/2015 14:39:26] RegSvr32.exe: iepeers.dll' registration succeeded.
+[11/05/2015 14:39:26] RegSvr32.exe: "C:\Program Files\Internet Explorer\ieproxy.dll"' registration succeeded.
+[11/05/2015 14:39:26] RegSvr32.exe: ieproxy.dll' Specified module not found
+[11/05/2015 14:39:27] RegSvr32.exe: iesetup.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:27] RegSvr32.exe: imgutil.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:27] RegSvr32.exe: inetcpl.cpl' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:27] RegSvr32.exe: inetcpl.cpl' registration succeeded.
+[11/05/2015 14:39:27] RegSvr32.exe: initpki.dll' Specified module not found
+[11/05/2015 14:39:27] RegSvr32.exe: inseng.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:27] RegSvr32.exe: jscript.dll' registration succeeded.
+[11/05/2015 14:39:27] RegSvr32.exe: licmgr10.dll' registration succeeded.
+[11/05/2015 14:39:27] RegSvr32.exe: mlang.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:27] RegSvr32.exe: mobsync.dll' Specified module not found
+[11/05/2015 14:39:27] RegSvr32.exe: msapsspc.dll' Specified module not found
+[11/05/2015 14:39:27] RegSvr32.exe: mscoree.dll' registration succeeded.
+[11/05/2015 14:39:28] RegSvr32.exe: mscorier.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:28] RegSvr32.exe: mscories.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:28] RegSvr32.exe: msdbg2.dll' Specified module not found
+[11/05/2015 14:39:28] RegSvr32.exe: mshta.exe' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:28] RegSvr32.exe: mshtml.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:28] RegSvr32.exe: mshtmled.dll' registration succeeded.
+[11/05/2015 14:39:28] RegSvr32.exe: msident.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:29] RegSvr32.exe: msieftp.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:29] RegSvr32.exe: msnsspc.dll' Specified module not found
+[11/05/2015 14:39:29] RegSvr32.exe: msr2c.dll' Specified module not found
+[11/05/2015 14:39:29] RegSvr32.exe: msrating.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:29] RegSvr32.exe: mstime.dll' Specified module not found
+[11/05/2015 14:39:29] RegSvr32.exe: msxml.dll' Specified module not found
+[11/05/2015 14:39:29] RegSvr32.exe: ole32.dll' registration succeeded.
+[11/05/2015 14:39:29] RegSvr32.exe: oleacc.dll' registration succeeded.
+[11/05/2015 14:39:29] RegSvr32.exe: occache.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:29] RegSvr32.exe: oleaut32.dll' registration succeeded.
+[11/05/2015 14:39:29] RegSvr32.exe: "C:\Program Files\Internet Explorer\pdm.dll"' registration succeeded.
+[11/05/2015 14:39:29] RegSvr32.exe: plugin.ocx' Specified module not found
+[11/05/2015 14:39:29] RegSvr32.exe: pngfilt.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:30] RegSvr32.exe: proctexe.ocx' Specified module not found
+[11/05/2015 14:39:30] RegSvr32.exe: scrobj.dll' Error number: 0x80070005
+[11/05/2015 14:39:30] RegSvr32.exe: sendmail.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:30] RegSvr32.exe: setupwbv.dll' Specified module not found
+[11/05/2015 14:39:30] RegSvr32.exe: shdocvw.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:30] RegSvr32.exe: tdc.ocx' registration succeeded.
+[11/05/2015 14:39:30] RegSvr32.exe: url.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:31] RegSvr32.exe: urlmon.dll' registration succeeded.
+[11/05/2015 14:39:31] RegSvr32.exe: urlmon.dll,NI,HKLM' Specified module not found
+[11/05/2015 14:39:31] RegSvr32.exe: vbscript.dll' registration succeeded.
+[11/05/2015 14:39:31] RegSvr32.exe: "C:\Program Files\microsoft shared\vgx\vgx.dll"' Specified module not found
+[11/05/2015 14:39:31] RegSvr32.exe: webcheck.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:31] Finished repairing Internet Explorer 11.0.9600
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:31] Repairing Windows Update / Automatic Updates, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:31] Stopping the BITS Service.....
+[11/05/2015 14:39:31] BITS Stopped Successfully.
+[11/05/2015 14:39:31] Stopping the Automatic Updates (wuauserv) Service.....
+[11/05/2015 14:39:31] Automatic Updates (wuauserv) Service Stopped Successfully.
+[11/05/2015 14:39:31] Clearing File Stores (Update History).....
+[11/05/2015 14:39:31] Clearing [C:\Windows\SoftwareDistribution\Download].....
+[11/05/2015 14:39:32] [C:\Windows\SoftwareDistribution\Download] Cleared.
+[11/05/2015 14:39:32] Clearing [C:\Windows\SoftwareDistribution\DataStore].....
+[11/05/2015 14:39:33] [C:\Windows\SoftwareDistribution\DataStore] Cleared.
+[11/05/2015 14:39:33] Clearing [C:\Windows\system32\CatRoot2].....
+[11/05/2015 14:39:34] [C:\Windows\system32\CatRoot2] Cleared.
+[11/05/2015 14:39:34] Setting BITS Security Descriptor.....
+[11/05/2015 14:39:34] BITS Security Descriptor Set.
+[11/05/2015 14:39:34] Setting Automatic Updates (wuauserv) Service Security Descriptor.....
+[11/05/2015 14:39:34] Automatic Updates (wuauserv) Security Descriptor Set.
+[11/05/2015 14:39:34] Configuring the Automatic Updates (wuauserv) Service.....
+[11/05/2015 14:39:35] Automatic Updates (wuauserv) Service Configured.
+[11/05/2015 14:39:35] Configuring BITS.....
+[11/05/2015 14:39:35] BITS Configured.
+[11/05/2015 14:39:35] Registering WUAU DLLs.....
+[11/05/2015 14:39:35] RegSvr32.exe: actxprxy.dll' registration succeeded.
+[11/05/2015 14:39:35] RegSvr32.exe: atl.dll' registration succeeded.
+[11/05/2015 14:39:35] RegSvr32.exe: browseui.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:35] RegSvr32.exe: corpol.dll' Specified module not found
+[11/05/2015 14:39:35] RegSvr32.exe: cryptdlg.dll' registration succeeded.
+[11/05/2015 14:39:35] RegSvr32.exe: dispex.dll' registration succeeded.
+[11/05/2015 14:39:35] RegSvr32.exe: dssenh.dll' registration succeeded.
+[11/05/2015 14:39:35] RegSvr32.exe: gpkcsp.dll' Specified module not found
+[11/05/2015 14:39:35] RegSvr32.exe: initpki.dll' Specified module not found
+[11/05/2015 14:39:35] RegSvr32.exe: jscript.dll' registration succeeded.
+[11/05/2015 14:39:36] RegSvr32.exe: mshtml.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:36] RegSvr32.exe: msscript.ocx' Specified module not found
+[11/05/2015 14:39:36] RegSvr32.exe: msxml.dll' Specified module not found
+[11/05/2015 14:39:36] RegSvr32.exe: msxml2.dll' Specified module not found
+[11/05/2015 14:39:36] RegSvr32.exe: msxml3.dll' registration succeeded.
+[11/05/2015 14:39:36] RegSvr32.exe: msxml4.dll' Specified module not found
+[11/05/2015 14:39:37] RegSvr32.exe: msxml6.dll' registration succeeded.
+[11/05/2015 14:39:37] RegSvr32.exe: muweb.dll' Specified module not found
+[11/05/2015 14:39:37] RegSvr32.exe: ole.dll' Specified module not found
+[11/05/2015 14:39:37] RegSvr32.exe: ole32.dll' registration succeeded.
+[11/05/2015 14:39:37] RegSvr32.exe: oleaut.dll' Specified module not found
+[11/05/2015 14:39:37] RegSvr32.exe: oleaut32.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: qmgr.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:38] RegSvr32.exe: qmgrprxy.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: gpkcsp.dll' Specified module not found
+[11/05/2015 14:39:38] RegSvr32.exe: rsaenh.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: sccbase.dll' Specified module not found
+[11/05/2015 14:39:38] RegSvr32.exe: scrobj.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: scrrun.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: shdocvw.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:38] RegSvr32.exe: shell.dll' Specified module not found
+[11/05/2015 14:39:38] RegSvr32.exe: shell32.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: slbcsp.dll' Specified module not found
+[11/05/2015 14:39:38] RegSvr32.exe: softpub.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: urlmon.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: vbscript.dll' registration succeeded.
+[11/05/2015 14:39:38] RegSvr32.exe: winhttp.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:39] RegSvr32.exe: wintrust.dll' registration succeeded.
+[11/05/2015 14:39:39] RegSvr32.exe: wshext.dll' Error number: 0x80070005
+[11/05/2015 14:39:39] RegSvr32.exe: wuapi.dll' registration succeeded.
+[11/05/2015 14:39:39] RegSvr32.exe: wuaueng.dll' Error number: 0x80070005
+[11/05/2015 14:39:39] RegSvr32.exe: wuaueng1.dll' Specified module not found
+[11/05/2015 14:39:39] RegSvr32.exe: wucltui.dll' Specified module not found
+[11/05/2015 14:39:39] RegSvr32.exe: wucltux.dll' registration succeeded.
+[11/05/2015 14:39:39] RegSvr32.exe: wups.dll' registration succeeded.
+[11/05/2015 14:39:39] RegSvr32.exe: wups2.dll' registration succeeded.
+[11/05/2015 14:39:39] RegSvr32.exe: wuweb.dll' Specified module not found
+[11/05/2015 14:39:39] RegSvr32.exe: wuwebv.dll' registration succeeded.
+[11/05/2015 14:39:39] WUAU DLLs Reregistered.
+[11/05/2015 14:39:39] Resetting proxy settings.....
+[11/05/2015 14:39:39] Proxy settings reset successfully.
+[11/05/2015 14:39:40] Restarting the Automatic Updates (wuauserv) Service.....
+[11/05/2015 14:39:40] Automatic Updates (wuauserv) Service Restarted.
+[11/05/2015 14:39:40] Restarting the BITS Service.....
+[11/05/2015 14:39:40] BITS Service Restarted.
+[11/05/2015 14:39:40] Clearing the BITS queue.....
+[11/05/2015 14:39:41] BITS queue cleared.
+[11/05/2015 14:39:41] Initiating Windows Updates detection right away.....
+[11/05/2015 14:39:41] Finished repairing Windows Update / Automatic Updates.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:41] Repairing SSL / HTTPS / Cryptography service, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:41] Configuring the Cryptographic Service.....
+[11/05/2015 14:39:41] Cryptographic Service Configured.
+[11/05/2015 14:39:41] Stopping the Cryptographic Service.....
+[11/05/2015 14:39:42] Cryptographic service Stopped Successfully.
+[11/05/2015 14:39:42] Clearing [C:\Windows\system32\CatRoot].....
+[11/05/2015 14:39:42] [C:\Windows\system32\CatRoot] cleared.
+[11/05/2015 14:39:42] Re-registering SSL / HTTPS / Cryptography DLLs.....
+[11/05/2015 14:39:42] RegSvr32.exe: cryptdlg.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: cryptext.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: cryptui.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: dssenh.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: gpkcsp.dll' Specified module not found
+[11/05/2015 14:39:42] RegSvr32.exe: initpki.dll' Specified module not found
+[11/05/2015 14:39:42] RegSvr32.exe: licdll.dll' Specified module not found
+[11/05/2015 14:39:42] RegSvr32.exe: mssign32.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: mssip32.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: regwizc.dll' Specified module not found
+[11/05/2015 14:39:42] RegSvr32.exe: rsaenh.dll' registration succeeded.
+[11/05/2015 14:39:42] RegSvr32.exe: scardssp.dll' Specified module not found
+[11/05/2015 14:39:42] RegSvr32.exe: sccbase.dll' Specified module not found
+[11/05/2015 14:39:43] RegSvr32.exe: scecli.dll' registration succeeded.
+[11/05/2015 14:39:43] RegSvr32.exe: slbcsp.dll' Specified module not found
+[11/05/2015 14:39:43] RegSvr32.exe: softpub.dll' registration succeeded.
+[11/05/2015 14:39:43] RegSvr32.exe: winhttp.dll' Module loaded but entry-point DllRegisterServer was not found.
+[11/05/2015 14:39:43] RegSvr32.exe: wintrust.dll' registration succeeded.
+[11/05/2015 14:39:43] SSL / HTTPS / Cryptography DLLs re-registered.
+[11/05/2015 14:39:43] Restarting the Cryptographic Service.....
+[11/05/2015 14:39:43] Cryptographic Service restarted.
+[11/05/2015 14:39:43] Finished repairing SSL / HTTPS / Cryptography service.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:43] Resetting the Windows Firewall configuraton, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:43] Windows Firewall configuration reset successful.
+[11/05/2015 14:39:43] Finished resetting the Windows Firewall configuraton.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:43] Restoring the default Windows HOSTS file, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:43] Writing data to the HOSTS file.....
+[11/05/2015 14:39:43] HOSTS file created successfully.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:44] Repairing Workgroup Computers view, Please wait.....
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:44] Finished repairing Workgroup Computers view.
+
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:44] You will need to reboot your computer before the settings will take effect.
+-----------------------------------------------------------------------------------------
+[11/05/2015 14:39:46] Your computer is restarting now.....
+
+-----------------------------------------------------------------------------------------

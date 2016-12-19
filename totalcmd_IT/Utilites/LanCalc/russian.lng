@@ -1,0 +1,122 @@
+[Translations]
+LanCalculatorForm.mnChangeLang.Caption=Выбрать язык
+LanCalculatorForm.N9.Caption=Действия
+LanCalculatorForm.N1.Caption=Помощь
+LanCalculatorForm.actAbout.Caption=О программе...
+LanCalculatorForm.actAbout.Hint=О программе...
+LanCalculatorForm.actHome.Caption=Открыть Web страницу LanCalculator
+LanCalculatorForm.actHome.Hint=Открыть Web страницу LanCalculator
+LanCalculatorForm.actMail.Caption=Написать письмо автору
+LanCalculatorForm.actMail.Hint=Написать письмо автору
+LanCalculatorForm.actHelp.Caption=Руководство пользователя
+LanCalculatorForm.actHelp.Hint=Руководство пользователя
+LanCalculatorForm.actFAQ.Caption=FAQ
+LanCalculatorForm.actFAQ.Hint=FAQ
+LanCalculatorForm.actExit.Caption=Выход
+LanCalculatorForm.actExit.Hint=Выход из программы
+LanCalculatorForm.actWhatNew.Caption=Что нового?
+LanCalculatorForm.actWhatNew.Hint=Что нового?
+
+
+LanCalculatorForm.cbType.Items=Двоичный,Десятичный,Шестнадцатиричный
+LanCalculatorForm.gbResult.Caption=Расчет
+LanCalculatorForm.lblNetwork.Caption=Сеть
+LanCalculatorForm.lblMinIP.Caption=Минимальный IP
+LanCalculatorForm.lblMaxIP.Caption=Максимальный IP
+LanCalculatorForm.lblBroadcast.Caption=Broadcast
+LanCalculatorForm.lblHostNum.Caption=Число хостов
+LanCalculatorForm.gbInput.Caption=Исходные данные
+LanCalculatorForm.lblInputAddress.Caption=Адрес
+LanCalculatorForm.lblInputMask.Caption=Маска подсети
+LanCalculatorForm.lbledInputMaskInverse.Caption=Инверсия маски
+LanCalculatorForm.lblInputPrefix.Caption=Префикс сети
+LanCalculatorForm.Label1.Caption=Дополнительный вид отображения
+LanCalculatorForm.gbRequest.Caption=Запрос
+LanCalculatorForm.Label9.Caption=Вы можете рассчитать адреса в подсети и сетевые маски.
+LanCalculatorForm.Label10.Caption=Введите адрес (например: 192.168.28.6) и маску подсети (например: /27 или 255.255.255.224 или 0.0.0.15), и нажмите кнопку "Рассчитать"
+LanCalculatorForm.edAddress.EditLabel.Caption=Адрес 
+LanCalculatorForm.edMask.EditLabel.Caption=Маска подсети
+LanCalculatorForm.actMyParameters.Caption=Мои параметры
+LanCalculatorForm.actMyParameters.Hint=Применить мои параметры
+LanCalculatorForm.actSetClassA.Hint=Маска подсети класса A
+LanCalculatorForm.actSetClassA.Caption=Маска подсети класса A
+LanCalculatorForm.actSetClassB.Hint=Маска подсети класса B
+LanCalculatorForm.actSetClassB.Caption=Маска подсети класса B
+LanCalculatorForm.actSetClassC.Hint=Маска подсети класса C
+LanCalculatorForm.actSetClassC.Caption=Маска подсети класса C
+LanCalculatorForm.actShowInfo.Hint=Информация о масках
+LanCalculatorForm.actShowInfo.Caption=Информация о масках
+LanCalculatorForm.actShowDiap.Caption=Зарезервированные адреса
+LanCalculatorForm.actShowDiap.Hint=зарезервированные диапазоны IP адресов 
+LanCalculatorForm.mnMasks.Caption=Маски
+LanCalculatorForm.mnMasks.Hint=Маски
+
+LanCalculatorForm.sbClassA.Hint=Маска подсети класса A
+LanCalculatorForm.sbClassB.Hint=Маска подсети класса B
+LanCalculatorForm.sbClassC.Hint=Маска подсети класса C
+LanCalculatorForm.sbShowInfo.Hint=Информация о масках
+
+
+LanCalculatorForm.actCalculate.Caption=Рассчитать
+LanCalculatorForm.actCalculate.Hint=Рассчитать
+LanCalculatorForm.actClearAll.Caption=Очистить
+LanCalculatorForm.actClearAll.Hint=Очистить
+
+dlgSelectAddresses.Caption=Выберите адрес
+dlgSelectAddresses.rgIPAddresses.Caption=Адреса
+dlgSelectAddresses.OKBtn.Caption=Подтвердить
+dlgSelectAddresses.CancelBtn.Caption=Отменить
+
+
+dlgShowInfo.Caption=Информация о масках
+dlgShowInfo.btnCancel.Caption=Отменить
+dlgShowInfo.btnChoose.Caption=Выбрать
+
+dlgShowDiap.Caption=Зарезервированные диапазоны IP адресов [RFC 3330]
+dlgShowDiap.btnCancel.Caption=Отменить
+dlgShowDiap.btnChoose.Caption=Выбрать
+
+AboutBox.Caption=О программе...
+AboutBox.Label3.Caption=Хостинг любезно предоставлен Хостинг-Компанией
+AboutBox.Label4.Caption=Официальный сайт программы
+AboutBox.Label5.Caption=Письма с пожеланиями и сообщениями об ошибках отправляйте по адресу  
+AboutBox.Label6.Caption=Пообщаться с авторами и пользователями программы вы сможете на форуме
+AboutBox.lForum.Caption=www.lantricks.com/forum
+
+sNoConnectToIPC = Выбранный пользователь не может быть подключен к указанному компьютеру.
+sfilehelp=Help\help_ru.htm
+sfilefaq=Help\faq_ru.htm
+sfilehistory=whatsnew_ru.txt
+sSelectComp= Выберите компьютер
+sMask=Маска
+sInvMask=Инв. Маска
+sNumHost=Кол-во хостов
+sPrefix=Префикс
+sClass=Класс
+
+sErrorInIP=Неправильно введен IP адрес
+sErrorInMask=Неправильно введена маска подсети
+
+sBlock1=0.0.0.0/8{ENTER}"This" Network{ENTER}[RFC1700 page 4]
+sBlock2= 10.0.0.0/8{ENTER}Private-Use Networks{ENTER}RFC1918]
+sBlock3=14.0.0.0/8{ENTER}Public-Data Networks{ENTER}RFC1700 page 181]
+sBlock4=24.0.0.0/8{ENTER}Cable Television Networks{ENTER}--
+sBlock5=39.0.0.0/8{ENTER}Reserved{ENTER}[RFC1797]
+sBlock6=127.0.0.0/8{ENTER}Loopback{ENTER}[RFC1700 page 5]
+sBlock7=128.0.0.0/16{ENTER}Reserved{ENTER}--
+sBlock8=169.254.0.0/16{ENTER}Link Local{ENTER}--
+sBlock9=172.16.0.0/12{ENTER}Private-Use Networks{ENTER}[RFC1918]
+sBlock10=191.255.0.0/16{ENTER}Reserved{ENTER}--
+sBlock11=192.0.0.0/24{ENTER}Reserved{ENTER}--
+sBlock12=192.0.2.0/24{ENTER}Test-Net{ENTER}--
+sBlock13=192.88.99.0/24{ENTER}6to4 Relay Anycast{ENTER}[RFC3068]
+sBlock14=192.168.0.0/16{ENTER}Private-Use Networks{ENTER}[RFC1918]
+sBlock15=198.18.0.0/15{ENTER}Network Interconnect Device Benchmark Testing{ENTER}[RFC2544]
+sBlock16=223.255.255.0/24{ENTER}Reserved{ENTER}--
+sBlock17=224.0.0.0/4{ENTER}Multicast{ENTER}[RFC3171]
+sBlock18=240.0.0.0/4{ENTER}Reserved for Future Use{ENTER}[RFC1700 page 4]
+
+sBlock=Диапазон
+sUse=Использование
+sReference=Ссылка
+sForumAddress=http://lantricks.ru/forum/

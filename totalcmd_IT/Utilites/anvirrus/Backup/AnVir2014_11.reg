@@ -1,0 +1,21 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
+"2Gis Update Notifier"="\"C:\\Program Files\\2gis\\3.0\\2GISTrayNotifier.exe\" -delayed_start"
+"Adobe ARM"="\"C:\\Program Files\\Common Files\\Adobe\\ARM\\1.0\\AdobeARM.exe\""
+"AvastUI.exe"="\"C:\\Program Files\\AVAST Software\\Avast\\AvastUI.exe\" /nogui"
+"BCSSync"="\"C:\\Program Files\\Microsoft Office\\Office14\\BCSSync.exe\" /DelayServices"
+"Bonus.SSR.FR12"="\"C:\\Program Files\\ABBYY FineReader 12\\Bonus.ScreenshotReader.exe\" /autorun"
+"BrStsMon00"="C:\\Program Files\\Browny02\\Brother\\BrStMonW.exe /AUTORUN"
+"ETDWare"="%ProgramFiles%\\Elantech\\ETDCtrl.exe"
+"GfxServiceInstall"="C:\\Windows\\system32\\GfxCUIServiceInstall.vbs"
+"HotKeysCmds"="C:\\Windows\\system32\\hkcmd.exe"
+"HotkeyMon"="AsusSender.exe C:\\Program Files\\ASUS\\HotkeyService\\HotKeyMon.exe"
+"HotkeyService"="AsusSender.exe C:\\Program Files\\ASUS\\HotkeyService\\HotkeyService.exe"
+"IgfxTray"="C:\\Windows\\system32\\igfxtray.exe"
+"Persistence"="C:\\Windows\\system32\\igfxpers.exe"
+"RtHDVCpl"="C:\\Program Files\\Realtek\\Audio\\HDA\\RtHDVCpl.exe -s"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"Google Update"="\"C:\\Users\\Fox\\AppData\\Local\\Google\\Update\\GoogleUpdate.exe\" /c"
+"uTorrent"="\"C:\\Users\\Fox\\AppData\\Roaming\\uTorrent\\uTorrent.exe\"  /MINIMIZED"

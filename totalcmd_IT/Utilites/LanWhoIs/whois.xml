@@ -1,0 +1,3859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<whois_base>
+<domains>
+	<domain>
+		<suffix>.ac</suffix>
+		<description>Ascension</description>
+		<servers>
+			<server>
+				<name>nic.ac</name>
+				<address>whois.nic.ac</address>
+				<webinterface>http://www.nic.ac/cgi-bin/whois/</webinterface>
+				<online>http://www.nic.ac/</online>
+				<description>Network Information Center (AC Domain Registry) c/o Cable and Wireless (Ascension Island)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ad</suffix>
+		<description>Andorra</description>
+		<servers>
+			<server>
+				<name>nic.ad</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ad/</online>
+				<description>Servei de Telecommunications d'Andorra</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ae</suffix>
+		<description>United Arab Emirates</description>
+		<servers>
+			<server>
+				<name>nic.ae</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ae</online>
+				<description>Emirates Telecommunications Corporation</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.af</suffix>
+		<description>Afghanistan</description>
+		<servers>
+			<server>
+				<name>nic.af</name>
+				<address>whois.nic.af</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.af/</online>
+				<description>Ministry of Communications Islamic Transitional Government of Afghanistan</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ag</suffix>
+		<description>Antigua And Barbuda</description>
+		<servers>
+			<server>
+				<name>nic.ag</name>
+				<address>whois.nic.ag</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ag</online>
+				<description>UHSA School of Medicine</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ai</suffix>
+		<description>Anguilla</description>
+		<servers>
+			<server>
+				<name>nic.com.ai</name>
+				<address></address>
+				<webinterface>http://whois.offshore.ai/</webinterface>
+				<online>http://nic.com.ai</online>
+				<description>Government of Anguilla</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.al</suffix>
+		<description>Albania</description>
+		<servers>
+			<server>
+				<name>inima.al</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.inima.al/Domains.html</online>
+				<description>Telecommunications Regulatory Authority (TRA)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.am</suffix>
+		<description>Armenia</description>
+		<servers>
+			<server>
+				<name>amnic.net</name>
+				<address>whois.amnic.net</address>
+				<webinterface>https://www.amnic.net/whois/</webinterface>
+				<online>http://www.amnic.net</online>
+				<description>Internet Society</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.an</suffix>
+		<description>Netherlands Antilles</description>
+		<servers>
+			<server>
+				<name>una.an</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.una.an/an_domreg</online>
+				<description>University of The Netherlands Antilles</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ao</suffix>
+		<description>Angola</description>
+		<servers>
+			<server>
+				<name>dns.ao</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.dns.ao/</online>
+				<description>Faculdade de Engenharia da Universidade Agostinho Neto</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.aq</suffix>
+		<description>Antarctica</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ar</suffix>
+		<description>Argentina</description>
+		<servers>
+			<server>
+				<name>nic.ar</name>
+				<address></address>
+				<webinterface>http://www.nic.ar</webinterface>
+				<online>http://www.nic.ar</online>
+				<description>MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.as</suffix>
+		<description>American Samoa</description>
+		<servers>
+			<server>
+				<name>nic.as</name>
+				<address>whois.nic.as</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.as</online>
+				<description>AS Domain Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.at</suffix>
+		<description>Austria</description>
+		<servers>
+			<server>
+				<name>ripe.net</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.at</online>
+				<description>NIC.AT Internet Verwaltungs und Betriebsgesellschaft m.b.H</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.au</suffix>
+		<description>Australia</description>
+		<servers>
+			<server>
+				<name>aunic.net</name>
+				<address>whois.aunic.net</address>
+				<webinterface>http://www.aunic.net/cgi-bin/whois.aunic</webinterface>
+				<online>http://www.aunic.net</online>
+				<description>.au Domain Administration (auDA)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.net.au</suffix>
+				<description>net.au</description>
+				<servers>
+					<server>
+						<name>connect.com.au</name>
+						<address>whois.connect.com.au</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+			<domain>
+				<suffix>.com.au</suffix>
+				<description>net.au</description>
+				<servers>
+					<server>
+						<name>ausregistry.net.au</name>
+						<address>whois-generic.ausregistry.net.au</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+
+				</servers>
+
+			</domain>
+		</domains>
+	</domain>
+
+	<domain>
+		<suffix>.aw</suffix>
+		<description>Aruba</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.az</suffix>
+		<description>Azerbaijan</description>
+		<servers>
+			<server>
+				<name>www.az</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.az/</online>
+				<description>Azerbaijan Communications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ba</suffix>
+		<description>Bosnia and Herzegovina</description>
+		<servers>
+			<server>
+				<name>nic.ba</name>
+				<address></address>
+				<webinterface>http://www.nic.ba/stream/whois/</webinterface>
+				<online>http://www.nic.ba</online>
+				<description>Universtiy Telinformatic Centre (UTIC)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.bb</suffix>
+		<description>Barbados</description>
+		<servers>
+			<server>
+				<name>domains.org.bb</name>
+				<address></address>
+				<webinterface>http://domains.org.bb</webinterface>
+				<online>http://domains.org.bb</online>
+				<description>Cable and Wireless (Barbados) Limited</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bd</suffix>
+		<description>Bangladesh</description>
+		<servers>
+			<server>
+				<name>bttb.net.bd</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.bttb.net.bd/dotbd.html</online>
+				<description>Ministry of Post and Telecommunications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.be</suffix>
+		<description>Belgium</description>
+		<servers>
+			<server>
+				<name>dns.be</name>
+				<address>whois.dns.be</address>
+				<webinterface>http://www.dns.be/en/home.php?n=41</webinterface>
+				<online>http://www.dns.be</online>
+				<description>DNS BE vzw/asbl</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bf</suffix>
+		<description>Burkina Faso</description>
+		<servers>
+			<server>
+				<name>onatel.bf</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.onatel.bf/domaine.htm</online>
+				<description>DELGI Delegational Generale Informatique</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bg</suffix>
+		<description>Bulgaria</description>
+		<servers>
+			<server>
+				<name>register.bg</name>
+				<address></address>
+				<webinterface>http://www.register.bg/whois_eng.html</webinterface>
+				<online>http://www.register.bg</online>
+				<description>Register.BG</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.bh</suffix>
+		<description>Bahrain</description>
+		<servers>
+			<server>
+				<name>inet.com.bh</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.inet.com.bh</online>
+				<description>BATELCO</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bi</suffix>
+		<description>Burundi</description>
+		<servers>
+			<server>
+				<name>nic.bi</name>
+				<address></address>
+				<webinterface>http://whois.nic.bi/register/whois.hei</webinterface>
+				<online>http://www.nic.bi</online>
+				<description>Centre National de l'Informatique</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bj</suffix>
+		<description>Benin</description>
+		<servers>
+			<server>
+				<name>opt.bj</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.opt.bj/</online>
+				<description>Offices des Postes et Telecommunications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bm</suffix>
+		<description>Bermuda</description>
+		<servers>
+			<server>
+				<name>bermudanic.bm</name>
+				<address></address>
+				<webinterface>http://207.228.133.14/cgi-bin/lansaweb?procfun+BMWHO+BMWHO2+WHO</webinterface>
+				<online>http://www.bermudanic.bm</online>
+				<description>Bermuda College</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bn</suffix>
+		<description>Brunei Darussalam</description>
+		<servers>
+			<server>
+				<name>brunet.bn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.brunet.bn</online>
+				<description>Jabatan Telekom Brunei</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.bo</suffix>
+		<description>Bolivia</description>
+		<servers>
+			<server>
+				<name>nic.bo</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.bo</online>
+				<description>BolNet</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.br</suffix>
+		<description>Brazil</description>
+		<servers>
+			<server>
+				<name>registro.br</name>
+				<address>whois.registro.br</address>
+				<webinterface></webinterface>
+				<online>http://registro.br/</online>
+				<description>Comite Gestor da Internet no Brasil</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bs</suffix>
+		<description>Bahamas</description>
+		<servers>
+			<server>
+				<name>nic.bs</name>
+				<address></address>
+				<webinterface>http://www.nic.bs/cgi-bin/search.pl</webinterface>
+				<online>http://www.nic.bs</online>
+				<description>The College of the Bahamas</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bt</suffix>
+		<description>Bhutan</description>
+		<servers>
+			<server>
+				<name>nic.bt</name>
+				<address></address>
+				<webinterface>http://www.nic.bt/mwhois.php</webinterface>
+				<online>http://www.nic.bt</online>
+				<description>Bhutan Ministry of Communications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.bv</suffix>
+		<description>Bouvet Island</description>
+		<servers>
+			<server>
+				<name>norid.no</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.norid.no/domenenavnbaser/bv-sj.html</online>
+				<description>UNINETT Norid A/S</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bw</suffix>
+		<description>Botswana</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.by</suffix>
+		<description>Belarus</description>
+		<servers>
+			<server>
+				<name>tld.by</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.tld.by</online>
+				<description>The State Centre of Security Information of Belarus Republic</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.bz</suffix>
+		<description>Belize</description>
+		<servers>
+			<server>
+				<name>belizenic.bz</name>
+				<address>whois.belizenic.bz</address>
+				<webinterface></webinterface>
+				<online>http://www.belizenic.bz</online>
+				<description>University College of Belize</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ca</suffix>
+		<description>Canada</description>
+		<servers>
+			<server>
+				<name>cira.ca</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.cira.ca/</online>
+				<description>Canadian Internet Registration Authority (CIRA)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.cc</suffix>
+		<description>Cocos (Keeling) Islands</description>
+		<servers>
+			<server>
+				<name>nic.cc</name>
+				<address>whois.nic.cc</address>
+				<whois_prefix>domain </whois_prefix>
+				<webinterface>http://www.enic.cc/en-def-037a106445f0/en/whois.shtml</webinterface>
+				<online>http://www.nic.cc/</online>
+				<description>Island Internet Services</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cd</suffix>
+		<description>Congo, The Democratic Republic of the</description>
+		<servers>
+			<server>
+				<name>nic.cd</name>
+				<address>whois.nic.cd</address>
+				<webinterface>http://www.nic.cd/nav1234</webinterface>
+				<online>http://www.nic.cd/</online>
+				<description>NIC Congo - Interpoint SARL</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cf</suffix>
+		<description>Central African Republic</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cg</suffix>
+		<description>Congo, Republic of</description>
+		<servers>
+			<server>
+				<name>nic.cg</name>
+				<address></address>
+				<webinterface>http://www.nic.cg/cgi-bin/whois.pl</webinterface>
+				<online>http://www.nic.cg</online>
+				<description>ONPT Congo and Interpoint Switzerland</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ch</suffix>
+		<description>Switzerland</description>
+		<servers>
+			<server>
+				<name>nic.ch</name>
+				<address>whois.nic.ch</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ch/</online>
+				<description>SWITCH Teleinformatics Services</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ci</suffix>
+		<description>Cote d'Ivoire</description>
+		<servers>
+			<server>
+				<name>nic.ci</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ci</online>
+				<description>INP-HB Institut National Polytechnique Felix Houphouet Boigny</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ck</suffix>
+		<description>Cook Islands</description>
+		<servers>
+			<server>
+				<name>ck-nic.org.ck</name>
+				<address>whois.ck-nic.org.ck</address>
+				<webinterface></webinterface>
+				<online>http://www.oyster.net.ck</online>
+				<description>Telecom Cook Islands Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cl</suffix>
+		<description>Chile</description>
+		<servers>
+			<server>
+				<name>nic.cl</name>
+				<address>whois.nic.cl</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cl/</online>
+				<description>NIC Chile (University of Chile)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cm</suffix>
+		<description>Cameroon</description>
+		<servers>
+			<server>
+				<name>info.intelcam.cm</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://info.intelcam.cm/</online>
+				<description>INTELCAM</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cn</suffix>
+		<description>China</description>
+		<servers>
+			<server>
+				<name>cnnic.net.cn</name>
+				<address>whois.cnnic.net.cn</address>
+				<webinterface></webinterface>
+				<online>http://www.cnnic.net.cn/</online>
+				<description>Chinese Academy of Sciences</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.edu.cn</suffix>
+				<description>edu.cn</description>
+				<servers>
+					<server>
+						<name>edu.cn</name>
+						<address>whois.edu.cn</address>
+						<webinterface></webinterface>
+						<online>/</online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+		</domains>
+	</domain>
+	<domain>
+		<suffix>.co</suffix>
+		<description>Colombia</description>
+		<servers>
+			<server>
+				<name>nic.co</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.co</online>
+				<description>Universidad de Los Andes</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.cr</suffix>
+		<description>Costa Rica</description>
+		<servers>
+			<server>
+				<name>nic.cr</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cr/</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cs</suffix>
+		<description>Serbia and Montenegro</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.cu</suffix>
+		<description>Cuba</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.cv</suffix>
+		<description>Cape Verde</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.cx</suffix>
+		<description>Christmas Island</description>
+		<servers>
+			<server>
+				<name>nic.cx</name>
+				<address>whois.nic.cx</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cx/</online>
+				<description>Planet Three Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.cy</suffix>
+		<description>Cyprus</description>
+		<servers>
+			<server>
+				<name>nic.cy</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cy</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.cz</suffix>
+		<description>Czech Republic</description>
+		<servers>
+			<server>
+				<name>nic.cz</name>
+				<address>whois.nic.cz</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cz/</online>
+				<description>CZ-NIC, z.s.p.o</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.de</suffix>
+		<description>Germany</description>
+		<servers>
+			<server>
+				<name>denic.de</name>
+				<address>whois.denic.de</address>
+				<webinterface>http://www.denic.de/en/whois/index.jsp</webinterface>
+				<online>http://www.denic.de/</online>
+				<description>DENIC eG</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.dj</suffix>
+		<description>Djibouti</description>
+		<servers>
+			<server>
+				<name>intnet.dj</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.intnet.dj</online>
+				<description>Societe des Telecommunications Internationales de Djibouti (STID)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.dk</suffix>
+		<description>Denmark</description>
+		<servers>
+			<server>
+				<name>dk-hostmaster.dk</name>
+				<address>whois.dk-hostmaster.dk</address>
+				<webinterface></webinterface>
+				<online>http://www.dk-hostmaster.dk/</online>
+				<description>Dansk Internet Forum</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.dm</suffix>
+		<description>Dominica</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.do</suffix>
+		<description>Dominican Republic</description>
+		<servers>
+			<server>
+				<name>nic.do</name>
+				<address></address>
+				<webinterface>http://www.nic.do/whois-hin.php3</webinterface>
+				<online>http://www.nic.do</online>
+				<description>Pontificia Universidad Catolica Madre y Maestra</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.dz</suffix>
+		<description>Algeria</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ec</suffix>
+		<description>Ecuador</description>
+		<servers>
+			<server>
+				<name>nic.ec</name>
+				<address></address>
+				<webinterface>http://www.nic.ec/eng/registro/paso1.asp</webinterface>
+				<online>http://www.nic.ec</online>
+				<description>NIC.EC (NICEC) S.A.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ee</suffix>
+		<description>Estonia</description>
+		<servers>
+			<server>
+				<name>eenet.ee</name>
+				<address>whois.eenet.ee</address>
+				<webinterface>http://www.eenet.ee/info/search.html</webinterface>
+				<online>http://www.eenet.ee/services/subdomains.html</online>
+				<description>National Institute of Chemical Physics and Biophysics</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.eg</suffix>
+		<description>Egypt</description>
+		<servers>
+			<server>
+				<name>frcu.eun.eg</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.frcu.eun.eg/</online>
+				<description>Egyptian Universities Network (EUN)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.eh</suffix>
+		<description>Western Sahara</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.er</suffix>
+		<description>Eritrea</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.es</suffix>
+		<description>Spain</description>
+		<servers>
+			<server>
+				<name>nic.es</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.es/</online>
+				<description>Red.es</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.et</suffix>
+		<description>Ethiopia</description>
+		<servers>
+			<server>
+				<name>telecom.net.et</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.telecom.net.et</online>
+				<description>Ethiopian Telecommunications Corporation</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.fi</suffix>
+		<description>Finland</description>
+		<servers>
+			<server>
+				<name>ripe.net</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.ficora.fi</online>
+				<description>Finnish Communications Regulatory Authority</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.fj</suffix>
+		<description>Fiji</description>
+		<servers>
+			<server>
+				<name>domains.fj</name>
+				<address></address>
+				<webinterface>http://domains.fj/public/whois.php?USP-DomReg=b76fe50869e4d6f86cf8cf6ab3e0b7c1</webinterface>
+				<online>http://domains.fj/</online>
+				<description>The University of the South Pacific</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.fk</suffix>
+		<description>Falkland Islands (Malvinas)</description>
+		<servers>
+			<server>
+				<name>fidc.org.fk</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.fidc.org.fk/</online>
+				<description>Falkland Islands Government</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.fm</suffix>
+		<description>Micronesia, Federal State of</description>
+		<servers>
+			<server>
+				<name>www.fm</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.fm/</online>
+				<description>FSM Telecommunications Corporation</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.fo</suffix>
+		<description>Faroe Islands</description>
+		<servers>
+			<server>
+				<name>nic.fo</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.fo/</online>
+				<description>UNI2</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.fr</suffix>
+		<description>France</description>
+		<servers>
+			<server>
+				<name>nic.fr</name>
+				<address>whois.nic.fr</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.fr/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ga</suffix>
+		<description>Gabon</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix></suffix>
+		<description></description>
+		<servers>
+			<server>
+				<name></name>
+				<address></address>
+				<webinterface></webinterface>
+				<online></online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gb</suffix>
+		<description>United Kingdom (Reserved)</description>
+		<servers>
+			<server>
+				<name>ripe.net</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online></online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gd</suffix>
+		<description>Grenada</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ge</suffix>
+		<description>Georgia</description>
+		<servers>
+			<server>
+				<name>georgia.net.ge</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://georgia.net.ge/domain/</online>
+				<description>SANET Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gf</suffix>
+		<description>French Guiana</description>
+		<servers>
+			<server>
+				<name>nplus.gf</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nplus.gf/</online>
+				<description>Net Plus</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gg</suffix>
+		<description>Guernsey</description>
+		<servers>
+			<server>
+				<name>channelisles.net</name>
+				<address>whois.channelisles.net</address>
+				<webinterface></webinterface>
+				<online>http://www.channelisles.net/</online>
+				<description>sland Networks Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gh</suffix>
+		<description>Ghana</description>
+		<servers>
+			<server>
+				<name>ghana.com.gh</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.ghana.com.gh/</online>
+				<description>etwork Computer Systems Limited</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gi</suffix>
+		<description> Gibraltar</description>
+		<servers>
+			<server>
+				<name>nic.gi</name>
+				<address></address>
+				<webinterface>http://www.nic.gi/whois/</webinterface>
+				<online>http://www.nic.gi</online>
+				<description>GibNet Limited</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gl</suffix>
+		<description>Greenland</description>
+		<servers>
+			<server>
+				<name>nic.gl</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.gl/</online>
+				<description>TELE Greenland A/S</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gm</suffix>
+		<description>Gambia</description>
+		<servers>
+			<server>
+				<name>nic.gm</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.gm</online>
+				<description>GM-NIC</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gn</suffix>
+		<description>Guinea</description>
+		<servers>
+			<server>
+				<name>psg.com</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://psg.com/dns/gn</online>
+				<description>Centre National des Sciences Halieutiques de Boussoura</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gp</suffix>
+		<description>Guadeloupe</description>
+		<servers>
+			<server>
+				<name>nic.gp</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.gp/</online>
+				<description>Networking Technologies Group</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gq</suffix>
+		<description>Equatorial Guinea</description>
+		<servers>
+			<server>
+				<name>getesa.gq</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.getesa.gq/</online>
+				<description>GETESA</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.gr</suffix>
+		<description>Greece</description>
+		<servers>
+			<server>
+				<name>www.gr</name>
+				<address>whois.ripe.net</address>
+				<webinterface></webinterface>
+				<online>http://www.gr</online>
+				<description>ICS-FORTH GR</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gs</suffix>
+		<description>South Georgia and the South Sandwich Islands</description>
+		<servers>
+			<server>
+				<name>whois.adamsnames.tc</name>
+				<address>whois.adamsnames.tc</address>
+				<webinterface>http://www.adamsnames.gs/whois/</webinterface>
+				<online>http://www.adamsnames.gs/</online>
+				<description>c/o 3 Adams Road</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gt</suffix>
+		<description>Guatemala</description>
+		<servers>
+			<server>
+				<name>www.gt</name>
+				<address></address>
+				<webinterface>http://www.gt/whois.htm</webinterface>
+				<online>http://www.gt</online>
+				<description>Universidad del Valle de Guatemala</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gu</suffix>
+		<description>Guam</description>
+		<servers>
+			<server>
+				<name>gadao.gov.gu</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://gadao.gov.gu</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gw</suffix>
+		<description>Guinea-Bissau</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.gy</suffix>
+		<description>Guyana</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.hk</suffix>
+		<description>Hong Kong</description>
+		<servers>
+			<server>
+				<name>hkirc.net.hk</name>
+				<address>whois.hkirc.net.hk</address>
+				<webinterface></webinterface>
+				<online>http://www.hkirc.net.hk</online>
+				<description>University of Hong Kong</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.hm</suffix>
+		<description>Heard and McDonald Islands</description>
+		<servers>
+			<server>
+				<name>registry.hm</name>
+				<address>whois.registry.hm</address>
+				<webinterface></webinterface>
+				<online>http://www.registry.hm</online>
+				<description>HM Domain Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.hn</suffix>
+		<description>Honduras</description>
+		<servers>
+			<server>
+				<name>nic.hn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.hn</online>
+				<description>Red de Desarrollo Sostenible Honduras</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.hr</suffix>
+		<description>Croatia/Hrvatska</description>
+		<servers>
+			<server>
+				<name>dns.hr</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.dns.hr</online>
+				<description>CARNet - Croatian Academic and Research Network</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ht</suffix>
+		<description>Haiti</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.hu</suffix>
+		<description>Hungary</description>
+		<servers>
+			<server>
+				<name>nic.hu</name>
+				<address>whois.nic.hu</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.hu</online>
+				<description>Council of Hungarian Internet Providers</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.id</suffix>
+		<description>Indonesia</description>
+		<servers>
+			<server>
+				<name>idnic.net.id</name>
+				<address>whois.idnic.net.id</address>
+				<webinterface></webinterface>
+				<online>http://www.idnic.net.id</online>
+				<description>IDNIC-PPAU Mikroelektronika</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ie</suffix>
+		<description>Ireland</description>
+		<servers>
+			<server>
+				<name>domainregistry.ie</name>
+				<address>whois.domainregistry.ie</address>
+				<webinterface></webinterface>
+				<online>http://www.domainregistry.ie</online>
+				<description>University College Dublin</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    	<domain>
+		<suffix>.il</suffix>
+		<description>Israel</description>
+		<servers>
+			<server>
+				<name>isoc.org.il</name>
+				<address>whois.isoc.org.il</address>
+				<webinterface>http://www.isoc.org.il/fr_reload.html?domains/whois.3</webinterface>
+				<online>http://www.isoc.org.il/</online>
+				<description>Internet Society of Israel</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.im</suffix>
+		<description>Isle of Man</description>
+		<servers>
+			<server>
+				<name>nic.im</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.im</online>
+				<description>Isle of Man Government</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.in</suffix>
+		<description>India</description>
+		<servers>
+			<server>
+				<name>ncst.ernet.in</name>
+				<address>whois.ncst.ernet.in</address>
+				<webinterface></webinterface>
+				<online>http://domain.ncst.ernet.in</online>
+				<description>National Centre for Software Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.io</suffix>
+		<description>British Indian Ocean Territory</description>
+		<servers>
+			<server>
+				<name>nic.io</name>
+				<address>whois.nic.io</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.io/</online>
+				<description>IO Top Level Domain Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.iq</suffix>
+		<description>Iraq</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ir</suffix>
+		<description>Iran, Islamic Republic of</description>
+		<servers>
+			<server>
+				<name>nic.ir</name>
+				<address>whois.nic.ir</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ir</online>
+				<description>Institute for Studies in Theoretical Physics and Mathematics (IPM) </description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.is</suffix>
+		<description>Iceland</description>
+		<servers>
+			<server>
+				<name>isnic.is</name>
+				<address>whois.isnic.is</address>
+				<webinterface></webinterface>
+				<online>http://www.isnic.is/</online>
+				<description>ISNIC - Internet Iceland ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.it</suffix>
+		<description>Italy</description>
+		<servers>
+			<server>
+				<name>nic.it</name>
+				<address>whois.nic.it</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.it/</online>
+				<description>IIT - CNR</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.je</suffix>
+		<description>Jersey</description>
+		<servers>
+			<server>
+				<name>channelisles.net</name>
+				<address>whois.channelisles.net</address>
+				<webinterface></webinterface>
+				<online>http://www.channelisles.net/</online>
+				<description>Island Networks Jersey Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.jm</suffix>
+		<description>Jamaica</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.jo</suffix>
+		<description>Jordan</description>
+		<servers>
+			<server>
+				<name>gov.jo</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.gov.jo/dns</online>
+				<description>National Information Center</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.jp</suffix>
+		<description>Japan</description>
+		<servers>
+			<server>
+				<name>nic.ad.jp</name>
+				<address>whois.nic.ad.jp</address>
+				<webinterface></webinterface>
+				<online>http://jprs.jp/</online>
+				<description>Japan Registry Service Co., Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ke</suffix>
+		<description>Kenya</description>
+		<servers>
+			<server>
+				<name>kenic.or.ke</name>
+				<address>whois.kenic.or.ke</address>
+				<webinterface></webinterface>
+				<online>http://www.kenic.or.ke</online>
+				<description>Kenya Network Information Center (KeNIC)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.kg</suffix>
+		<description>Kyrgyzstan</description>
+		<servers>
+			<server>
+				<name>domain.kg</name>
+				<address>whois.domain.kg</address>
+				<webinterface></webinterface>
+				<online></online>
+				<description>AsiaInfo Telecommunication Enterprise</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.kh</suffix>
+		<description>Cambodia</description>
+		<servers>
+			<server>
+				<name>camnet.com.kh</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.camnet.com.kh/</online>
+				<description>Ministry of Post and Telecommunications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ki</suffix>
+		<description>Kiribati</description>
+		<servers>
+			<server>
+				<name>www.ki</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.ki/</online>
+				<description>Ministry of Information, Communications, and Transport</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.km</suffix>
+		<description>Comoros</description>
+		<servers>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.kn</suffix>
+		<description>Saint Kitts and Nevis</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.kp</suffix>
+		<description>Korea, Democratic People's Republic</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.kr</suffix>
+		<description>Korea, Republic of</description>
+		<servers>
+			<server>
+				<name>nic.or.kr</name>
+				<address>whois.nic.or.kr</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.or.kr/</online>
+				<description>Korea Network Information Center (KRNIC)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.kw</suffix>
+		<description>Kuwait</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ky</suffix>
+		<description>Cayman Islands</description>
+		<servers>
+			<server>
+				<name>nic.ky</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ky</online>
+				<description>The Information and Communications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.kz</suffix>
+		<description>Kazakhstan</description>
+		<servers>
+			<server>
+				<name>nic.kz</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.kz</online>
+				<description>KazNIC Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.la</suffix>
+		<description>Lao People's Democratic Republic</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix></suffix>
+		<description></description>
+		<servers>
+			<server>
+				<name></name>
+				<address></address>
+				<webinterface></webinterface>
+				<online></online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.lb</suffix>
+		<description>Lebanon</description>
+		<servers>
+			<server>
+				<name></name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.aub.edu.lb/lbdr</online>
+				<description>American University of Beirut</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.lc</suffix>
+		<description>Saint Lucia</description>
+		<servers>
+			<server>
+				<name>sluonestop.com</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sluonestop.com/</online>
+				<description>University of Puerto Rico</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.li</suffix>
+		<description>Liechtenstein</description>
+		<servers>
+			<server>
+				<name>nic.li</name>
+				<address>whois.nic.li</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.li</online>
+				<description>Fachhochschule Liechtenstein</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.lk</suffix>
+		<description>Sri Lanka</description>
+		<servers>
+			<server>
+				<name>nic.lk</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.lk/</online>
+				<description>Council for Information Technology LK Domain Registrar</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.lr</suffix>
+		<description>Liberia</description>
+		<servers>
+			<server>
+				<name>psg.com</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://psg.com/dns/lr</online>
+				<description>Data Technology Solutions, Inc.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ls</suffix>
+		<description>Lesotho</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.lt</suffix>
+		<description>Lithuania</description>
+		<servers>
+			<server>
+				<name>domreg.lt</name>
+				<address>whois.domreg.lt</address>
+				<webinterface></webinterface>
+				<online>http://www.domreg.lt</online>
+				<description>Kaunas University of Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.lu</suffix>
+		<description>Luxembourg</description>
+		<servers>
+			<server>
+				<name>dns.lu</name>
+				<address>whois.dns.lu</address>
+				<webinterface></webinterface>
+				<online>http://www.dns.lu</online>
+				<description>RESTENA</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.lv</suffix>
+		<description>Latvia</description>
+		<servers>
+			<server>
+				<name>nic.lv</name>
+				<address>whois.nic.lv</address>
+				<webinterface>http://www.nic.lv/DNS/whois_text.php</webinterface>
+				<online>http://www.nic.lv/DNS/</online>
+				<description>University of Latvia</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ly</suffix>
+		<description>Libyan Arab Jamahiriya</description>
+		<servers>
+			<server>
+				<name>nic.ly/</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.ly/</online>
+				<description>Alshaeen for Information Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.ma</suffix>
+		<description>Morocco</description>
+		<servers>
+			<server>
+				<name>anrt.net.ma</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.anrt.net.ma/nic</online>
+				<description>Ecole Mohammadia d'Ingenieurs (EMI)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mc</suffix>
+		<description>Monaco</description>
+		<servers>
+			<server>
+				<name>nic.mc</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mc/</online>
+				<description>Gouvernement de Monaco</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.md</suffix>
+		<description>Moldova, Republic of</description>
+		<servers>
+			<server>
+				<name>register.md</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.register.md</online>
+				<description>MoldData S.E.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.mg</suffix>
+		<description>Madagascar</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mh</suffix>
+		<description>Marshall Islands</description>
+		<servers>
+			<server>
+				<name>nic.net.mh</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.net.mh/</online>
+				<description>Cabinet Office</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mk</suffix>
+		<description>Macedonia, The Former Yugoslav Republic of</description>
+		<servers>
+			<server>
+				<name>mpt.com.mk</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.mpt.com.mk/</online>
+				<description>Ministry of Foreign Relations</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ml</suffix>
+		<description>Mali</description>
+		<servers>
+			<server>
+				<name>sotelma.ml</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sotelma.ml</online>
+				<description>SOTELMA</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mm</suffix>
+		<description>Myanmar</description>
+		<servers>
+			<server>
+				<name>nic.mm</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mm/</online>
+				<description>Ministry of Communications</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mn</suffix>
+		<description>Mongolia</description>
+		<servers>
+			<server>
+				<name>nic.mn</name>
+				<address>whois.nic.mn</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mn</online>
+				<description>Datacom Co., Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.mo</suffix>
+		<description>Macao</description>
+		<servers>
+			<server>
+				<name>monic.net.mo</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.monic.net.mo</online>
+				<description>University of Macau</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.mp</suffix>
+		<description>Northern Mariana Islands</description>
+		<servers>
+			<server>
+				<name>nic.mp</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mp</online>
+				<description>Saipan Datacom, Inc.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mq</suffix>
+		<description>Martinique</description>
+		<servers>
+			<server>
+				<name>nic.mq</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mq/</online>
+				<description>SYSTEL</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mr</suffix>
+		<description>Mauritania</description>
+		<servers>
+			<server>
+				<name>univ-nkc.mr</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.univ-nkc.mr/nic_mr.html</online>
+				<description>University of Nouakchott</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ms</suffix>
+		<description>Montserrat</description>
+		<servers>
+			<server>
+				<name>adamsnames.ms</name>
+				<address>whois.adamsnames.tc</address>
+				<webinterface></webinterface>
+				<online>http://www.adamsnames.ms/</online>
+				<description>Lubimal (MS) Ltd</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mt</suffix>
+		<description>Malta</description>
+		<servers>
+			<server>
+				<name>nic.org.mt</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.org.mt</online>
+				<description>NIC Malta</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mu</suffix>
+		<description>Mauritius</description>
+		<servers>
+			<server>
+				<name>nic.mu</name>
+				<address></address>
+				<webinterface>http://www.nic.mu/mauritius/domain.whois.php</webinterface>
+				<online>ttp://www.nic.mu/</online>
+				<description>Internet Direct Ltd</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mv</suffix>
+		<description>Maldives</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.mw</suffix>
+		<description>Malawi</description>
+		<servers>
+			<server>
+				<name>registrar.mw</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.registrar.mw</online>
+				<description>Malawi Sustainable Development Network Programme</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mx</suffix>
+		<description>Mexico</description>
+		<servers>
+			<server>
+				<name>nic.mx</name>
+				<address>whois.nic.mx</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mx/</online>
+				<description>NIC-Mexico</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.my</suffix>
+		<description>Malaysia</description>
+		<servers>
+			<server>
+				<name>mynic.net.my</name>
+				<address>whois.mynic.net.my</address>
+				<webinterface></webinterface>
+				<online>http://www.mynic.net.my</online>
+				<description>MIMOS Berhad</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.mz</suffix>
+		<description>Mozambique</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.na</suffix>
+		<description>Namibia</description>
+		<servers>
+			<server>
+				<name>na-nic.com.na/</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.na-nic.com.na/</online>
+				<description>Namibian Network Information Center</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.nc</suffix>
+		<description>New Caledonia</description>
+		<servers>
+			<server>
+				<name>cctld.nc</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.cctld.nc/</online>
+				<description>IRD</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ne</suffix>
+		<description>Niger</description>
+		<servers>
+			<server>
+				<name>intnet.ne</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.intnet.ne</online>
+				<description>SONITEL</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.nf</suffix>
+		<description>Norfolk Island</description>
+		<servers>
+			<server>
+				<name>names.nf</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.names.nf/</online>
+				<description>Norfolk Island Data Services</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ng</suffix>
+		<description>Nigeria</description>
+		<servers>
+			<server>
+				<name>psg.com</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://psg.com/dns/ng</online>
+				<description>Nigerian Government c/o National Information Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ni</suffix>
+		<description>Nicaragua</description>
+		<servers>
+			<server>
+				<name>nic.ni</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://nic.ni/</online>
+				<description>Universidad Nacional del Ingernieria</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.nl</suffix>
+		<description>Netherlands</description>
+		<servers>
+			<server>
+				<name>domain-registry.nl</name>
+				<address>whois.domain-registry.nl</address>
+				<webinterface></webinterface>
+				<online>http://www.domain-registry.nl/</online>
+				<description>Stichting Internet Domeinregistratie Nederland</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.no</suffix>
+		<description>Norway</description>
+		<servers>
+			<server>
+				<name>norid.no</name>
+				<address>whois.norid.no</address>
+				<webinterface></webinterface>
+				<online>http://www.norid.no</online>
+				<description>UNINETT Norid A/S</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.np</suffix>
+		<description>Nepal</description>
+		<servers>
+			<server>
+				<name>mos.com.np</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.mos.com.np</online>
+				<description>Mercantile Communications Pvt. Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.nr</suffix>
+		<description>Nauru</description>
+		<servers>
+			<server>
+				<name>cenpac.net.nr</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.cenpac.net.nr</online>
+				<description>CENPAC NET</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.nu</suffix>
+		<description>Niue</description>
+		<servers>
+			<server>
+				<name>nic.nu</name>
+				<address>whois.nic.nu</address>
+				<webinterface></webinterface>
+				<online>http://www.nunames.nu/</online>
+				<description>Internet Users Society - Niue</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.nz</suffix>
+		<description>New Zealand</description>
+		<servers>
+			<server>
+				<name>srs.net.nz</name>
+				<address>whois.srs.net.nz</address>
+				<webinterface></webinterface>
+				<online>http://www.dnc.org.nz/</online>
+				<description>InternetNZ</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.om</suffix>
+		<description>Oman</description>
+		<servers>
+			<server>
+				<name>omantel.net.om</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.omantel.net.om</online>
+				<description>Oman Telecommunications Company</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pa</suffix>
+		<description>Panama</description>
+		<servers>
+			<server>
+				<name>nic.pa</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.pa/</online>
+				<description>Universidad Tecnologica de Panama</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.pe</suffix>
+		<description>Peru</description>
+		<servers>
+			<server>
+				<name>nic.pe</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.pe</online>
+				<description>Red Cientifica Peruana</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pf</suffix>
+		<description>French Polynesia</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pg</suffix>
+		<description>Papua New Guinea</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ph</suffix>
+		<description>Philippines</description>
+		<servers>
+			<server>
+				<name>domains.ph</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.domains.ph/</online>
+				<description>PH Domain Foundation</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pk</suffix>
+		<description>Pakistan</description>
+		<servers>
+			<server>
+				<name>pknic.net.pk</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.pknic.net.pk/</online>
+				<description>PKNIC</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pl</suffix>
+		<description>Poland</description>
+		<servers>
+			<server>
+				<name>dns.pl</name>
+				<address>whois.dns.pl</address>
+				<webinterface></webinterface>
+				<online>http://www.dns.pl/english/</online>
+				<description>Research and Academic Computer Network</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pm</suffix>
+		<description>Saint Pierre and Miquelon</description>
+		<servers>
+			<server>
+				<name>nic.fr</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.fr/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pn</suffix>
+		<description>Pitcairn Island</description>
+		<servers>
+			<server>
+				<name>government.pn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.government.pn/PnRegistry/PnRegistry.htm</online>
+				<description>Pitcairn Island Administration</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.pr</suffix>
+		<description>Puerto Rico</description>
+		<servers>
+			<server>
+				<name>nic.pr</name>
+				<address></address>
+				<webinterface>http://www.uprr.pr/domain/whois.asp</webinterface>
+				<online>http://www.nic.pr/domain/main.asp</online>
+				<description>University of Puerto Rico</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ps</suffix>
+		<description>Palestinian Territory, Occupied</description>
+		<servers>
+			<server>
+				<name>gcc.gov.ps</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.gcc.gov.ps</online>
+				<description>Ministry Of Telecommunications and Information Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pt</suffix>
+		<description>Portugal</description>
+		<servers>
+			<server>
+				<name>dns.pt</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.dns.pt/</online>
+				<description>Fundacao para a Computacao Cientifica Nacional</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.pw</suffix>
+		<description>Palau</description>
+		<servers>
+			<server>
+				<name>pwregistry.pw</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.pwregistry.pw</online>
+				<description>Micronesia Investment and Development Corporation</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.py</suffix>
+		<description>Paraguay</description>
+		<servers>
+			<server>
+				<name>nic.py</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.py</online>
+				<description>NIC-PY</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.qa</suffix>
+		<description>Qatar</description>
+		<servers>
+			<server>
+				<name>qatar.net.qa</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.qatar.net.qa/</online>
+				<description>Qatar Telecom (Q-Tel) Q.S.C.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.re</suffix>
+		<description>Reunion Island</description>
+		<servers>
+			<server>
+				<name>nic.re</name>
+				<address>whois.nic.re</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.re/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.ro</suffix>
+		<description>Romania</description>
+		<servers>
+			<server>
+				<name>rotld.ro</name>
+				<address>whois.rotld.ro</address>
+				<webinterface></webinterface>
+				<online>http://www.rotld.ro/</online>
+				<description>National Institute for R and D in Informatics</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.ru</suffix>
+		<description>Russian Federation</description>
+		<servers>
+			<server>
+				<name>ripn.net</name>
+				<address>whois.ripn.net</address>
+				<webinterface></webinterface>
+				<online>http://www.ripn.net/nic/dns/en/index.html</online>
+				<description>Russian Institute for Public Networks</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.msk.ru</suffix>
+				<description>MSK</description>
+				<servers>
+					<server>
+						<name>msk.ru</name>
+						<address>whois.relcom.ru</address>
+						<webinterface></webinterface>
+						<online>http://www.relcom.ru</online>
+						<description></description>
+						<rating>90</rating>
+					</server>
+				</servers>
+			</domain>
+		        <domain>
+				<suffix>.spb.ru</suffix>
+				<description>SPB</description>
+				<servers>
+					<server>
+						<name>spb.ru</name>
+						<address>whois.relcom.ru</address>
+						<webinterface></webinterface>
+						<online>http://www.relcom.ru</online>
+						<description></description>
+						<rating>90</rating>
+					</server>
+				</servers>
+			</domain>
+		</domains>
+    </domain>
+
+	<domain>
+		<suffix>.rw</suffix>
+		<description>Rwanda</description>
+		<servers>
+			<server>
+				<name>nic.cd</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.cd/</online>
+				<description>NIC Congo - Interpoint SARL</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sa</suffix>
+		<description>Saudi Arabia</description>
+		<servers>
+			<server>
+				<name>saudinic.net.sa</name>
+				<address></address>
+				<webinterface>http://www.saudinic.net.sa/cgi-bin/whois.cgi</webinterface>
+				<online>http://www.saudinic.net.sa/</online>
+				<description>King Abdulaziz City for Science and Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sb</suffix>
+		<description>Solomon Islands</description>
+		<servers>
+			<server>
+				<name>nic.net.sb</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.net.sb/</online>
+				<description>Solomon Telekom Co Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sc</suffix>
+		<description>Seychelles</description>
+		<servers>
+			<server>
+				<name>nic.sc</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.sc</online>
+				<description>ATLAS (Seychelles) Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sd</suffix>
+		<description>Sudan</description>
+		<servers>
+			<server>
+				<name>isoc.sd</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.isoc.sd</online>
+				<description>Sudan Internet Society</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.se</suffix>
+		<description>Sweden</description>
+		<servers>
+			<server>
+				<name>nic-se.se</name>
+				<address>whois.nic-se.se</address>
+				<webinterface></webinterface>
+				<online>http://www.iis.se/</online>
+				<description>II-Stiftelsen</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.sg</suffix>
+		<description>Singapore</description>
+		<servers>
+			<server>
+				<name>nic.net.sg</name>
+				<address>whois.nic.net.sg</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.net.sg/</online>
+				<description>Singapore Network Information Centre (SGNIC) Pte Ltd</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sh</suffix>
+		<description>Saint Helena</description>
+		<servers>
+			<server>
+				<name>nic.sh</name>
+				<address>whois.nic.sh</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.sh/</online>
+				<description>Government of St. Helena</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.si</suffix>
+		<description>Slovenia</description>
+		<servers>
+			<server>
+				<name>arnes.si</name>
+				<address>whois.arnes.si</address>
+				<webinterface></webinterface>
+				<online>http://www.arnes.si/si-domene/</online>
+				<description>Academic and Research Network of Slovenia (ARNES)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sj</suffix>
+		<description>Svalbard and Jan Mayen Islands</description>
+		<servers>
+			<server>
+				<name>norid.no</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.norid.no/domenenavnbaser/bv-sj.html</online>
+				<description>UNINETT Norid A/S</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sk</suffix>
+		<description>Slovak Republic</description>
+		<servers>
+			<server>
+				<name>sk-nic.sk</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sk-nic.sk</online>
+				<description>SK-NIC</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.sl</suffix>
+		<description>Sierra Leone</description>
+		<servers>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.sm</suffix>
+		<description>San Marino</description>
+		<servers>
+			<server>
+				<name>intelcom.sm</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.intelcom.sm/Naming</online>
+				<description>Intelcom San Marino S.p.A.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.sn</suffix>
+		<description>Senegal</description>
+		<servers>
+			<server>
+				<name>ucad.sn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.ucad.sn/nic.html</online>
+				<description>Universite Cheikh Anta Diop</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.so</suffix>
+		<description>Somalia</description>
+		<servers>
+			<server>
+				<name>wcd.so</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.wcd.so/</online>
+				<description>World Class Domains c/o Monolith Innovation Group</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sr</suffix>
+		<description>Suriname</description>
+		<servers>
+			<server>
+				<name>sr.net</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sr.net</online>
+				<description>Telesur</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.st</suffix>
+		<description>Sao Tome and Principe</description>
+		<servers>
+			<server>
+				<name>nic.st</name>
+				<address>whois.nic.st</address>
+				<webinterface></webinterface>
+				<online>http://st-registry.tecnisys.net</online>
+				<description>Tecnisys</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.su</suffix>
+		<description>Soviet Union</description>
+		<servers>
+			<server>
+				<name>ripn.net</name>
+				<address>whois.ripn.net</address>
+				<webinterface></webinterface>
+				<online>http://www.ripn.net/nic/dns/en/index.html</online>
+				<description>Russian Institute for Public Networks</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sv</suffix>
+		<description>El Salvador</description>
+		<servers>
+			<server>
+				<name>svnet.org.sv</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.svnet.org.sv</online>
+				<description>SVNet</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sy</suffix>
+		<description>Syrian Arab Republic</description>
+		<servers>
+			<server>
+				<name>ste.gov.sy</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.ste.gov.sy</online>
+				<description>Syrian Telecommunications Establishment (STE)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.sz</suffix>
+		<description>Swaziland</description>
+		<servers>
+			<server>
+				<name>sispa.org.sz</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sispa.org.sz</online>
+				<description>University of Swaziland</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.tc</suffix>
+		<description>Turks and Caicos Islands</description>
+		<servers>
+			<server>
+				<name>adamsnames.tc</name>
+				<address>whois.adamsnames.tc</address>
+				<webinterface></webinterface>
+				<online>http://www.adamsnames.tc/</online>
+				<description>Melrex TC</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.td</suffix>
+		<description>Chad</description>
+		<servers>
+			<server>
+				<name>sotel.td</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.sotel.td</online>
+				<description>Societe des telecommunications du Tchad (SOTEL TCHAD)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.tf</suffix>
+		<description>French Southern Territories</description>
+		<servers>
+			<server>
+				<name>nic.tf</name>
+				<address>whois.nic.tf</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tf/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tg</suffix>
+		<description>Togo</description>
+		<servers>
+			<server>
+				<name>nic.tg</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tg</online>
+				<description>CAFE INFORMATIQUE ET TELECOMMUNICATION</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.th</suffix>
+		<description>Thailand</description>
+		<servers>
+			<server>
+				<name>thnic.net</name>
+				<address>whois.thnic.net</address>
+				<webinterface></webinterface>
+				<online>http://www.thnic.net/</online>
+				<description>Asian Institute of Technology</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tj</suffix>
+		<description>Tajikistan</description>
+		<servers>
+			<server>
+				<name>nic.tj</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tj/</online>
+				<description>Information Technology Center</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tk</suffix>
+		<description>Tokelau</description>
+		<servers>
+			<server>
+				<name>dot.tk</name>
+				<address>whois.dot.tk</address>
+				<webinterface></webinterface>
+				<online>http://www.dot.tk</online>
+				<description>Vixie NZ Ltd (caretaker)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tl</suffix>
+		<description>Timor-Leste</description>
+		<servers>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tm</suffix>
+		<description>Turkmenistan</description>
+		<servers>
+			<server>
+				<name>nic.tm</name>
+				<address>whois.nic.tm</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tm/</online>
+				<description>TM Domain Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tn</suffix>
+		<description>Tunisia</description>
+		<servers>
+			<server>
+				<name>whois.ati.tn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://whois.ati.tn</online>
+				<description>Agence Tunisienne d'Internet</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.to</suffix>
+		<description>Tonga</description>
+		<servers>
+			<server>
+				<name>tonic.to</name>
+				<address>whois.tonic.to</address>
+				<webinterface></webinterface>
+				<online>http://www.tonic.to/</online>
+				<description>Government of the Kingdom of Tonga</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.tp</suffix>
+		<description>East Timor</description>
+		<servers>
+			<server>
+				<name>nic.tp</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tp</online>
+				<description>Laleia</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tr</suffix>
+		<description>Turkey</description>
+		<servers>
+			<server>
+				<name>nic.tr</name>
+				<address>whois.nic.tr</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tr</online>
+				<description>Middle East Technical University</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tt</suffix>
+		<description>Trinidad and Tobago</description>
+		<servers>
+			<server>
+				<name>nic.tt</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.tt</online>
+				<description>University of the West Indies</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tv</suffix>
+		<description>Tuvalu</description>
+		<servers>
+			<server>
+				<name>www.tv</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.tv</online>
+				<description>Ministry of Finance and Tourism</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.tw</suffix>
+		<description>Taiwan</description>
+		<servers>
+			<server>
+				<name>twnic.net.tw</name>
+				<address>whois.twnic.net.tw</address>
+				<webinterface></webinterface>
+				<online>http://rs.twnic.net.tw</online>
+				<description>Taiwan Network Information Center (TWNIC)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.tz</suffix>
+		<description>Tanzania</description>
+		<servers>
+			<server>
+				<name>psg.com</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.psg.com/dns/tz/</online>
+				<description>University of Dar Es Salaam</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+    <domain>
+		<suffix>.ua</suffix>
+		<description>Ukraine</description>
+		<servers>
+			<server>
+				<name>net.ua</name>
+				<address>whois.net.ua</address>
+				<webinterface></webinterface>
+				<online>http://nic.net.ua/</online>
+				<description>Supported by Hostmaster Ltd. (formerly .UA Network Coordination Group)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.biz.ua</suffix>
+				<description>Business BIZ.UA</description>
+				<servers>
+					<server>
+						<name>biz.ua</name>
+						<address>whois.biz.ua</address>
+						<webinterface>http://www.biz.ua/whois.jsp</webinterface>
+						<online>http://www.biz.ua</online>
+						<description>Business BIZ.UA</description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+            <domain>
+				<suffix>.in.ua</suffix>
+				<description>Individual IN.UA</description>
+				<servers>
+					<server>
+						<name>in.ua</name>
+						<address>whois.in.ua</address>
+						<webinterface>http://www.in.ua</webinterface>
+						<online>http://www.in.ua</online>
+						<description>Individual .IN.UA</description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+		</domains>
+    </domain>
+
+    <domain>
+		<suffix>.ug</suffix>
+		<description>Uganda</description>
+		<servers>
+			<server>
+				<name>nic.co.ug</name>
+				<address>whois.co.ug</address>
+				<webinterface>http://www.nic.co.ug</webinterface>
+				<online>http://www.registry.co.ug</online>
+				<description>Uganda Online Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+    </domain>
+    <domain>
+		<suffix>.uk</suffix>
+		<description>United Kingdom</description>
+		<servers>
+			<server>
+				<name>nic.uk</name>
+				<address>whois.nic.uk</address>
+				<webinterface>http://www.nic.uk</webinterface>
+				<online>http://www.nic.uk</online>
+				<description>Nominet UK</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+		    <domain>
+			<suffix>.ac.uk</suffix>
+			<description>ac.uk</description>
+			<servers>
+				<server>
+					<name>ja.net</name>
+					<address>whois.ja.net</address>
+					<webinterface></webinterface>
+					<online></online>
+					<description></description>
+					<rating>100</rating>
+				</server>
+			</servers>
+		    </domain>
+		    <domain>
+			<suffix>.gov.uk</suffix>
+			<description>gov.uk</description>
+			<servers>
+				<server>
+					<name>ja.net</name>
+					<address>whois.ja.net</address>
+					<webinterface></webinterface>
+					<online></online>
+					<description></description>
+					<rating>100</rating>
+				</server>
+			</servers>
+		    </domain>
+
+		</domains>
+	</domain>
+	
+    <domain>
+		<suffix>.um</suffix>
+		<description>United States Minor Outlying Islands</description>
+		<servers>
+			<server>
+				<name>nic.um</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.um</online>
+				<description>United States Minor Outlying Islands Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.us</suffix>
+		<description>United States</description>
+		<servers>
+			<server>
+				<name>nic.us</name>
+				<address>whois.nic.us</address>
+				<webinterface>http://whois.nic.us</webinterface>
+				<online>http://www.nic.us</online>
+				<description>NeuStar, Inc.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.uy</suffix>
+		<description>Uruguay</description>
+		<servers>
+			<server>
+				<name>nic.uy</name>
+				<address></address>
+				<webinterface>http://www.nic.uy</webinterface>
+				<online>http://www.rau.edu.uy/rau/dom/</online>
+				<description>SeCIU - Universidad de la Republica</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.uz</suffix>
+		<description>Uzbekistan</description>
+		<servers>
+			<server>
+				<name>noc.uz</name>
+				<address></address>
+				<webinterface>http://www.noc.uz/dom_01.htm</webinterface>
+				<online>http://www.noc.uz</online>
+				<description>Computerization and Information Technology Development Center</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.va</suffix>
+		<description>Holy See (Vatican City State)</description>
+		<servers>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.vc</suffix>
+		<description>Saint Vincent and the Grenadines</description>
+		<servers>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.ve</suffix>
+		<description>Venezuela</description>
+		<servers>
+			<server>
+				<name>nic.ve</name>
+				<address></address>
+				<webinterface>http://www.nic.ve</webinterface>
+				<online>http://www.nic.ve</online>
+				<description>REACCIUN - Red Academica de Centros de Investigacion y Universidades Nacionales</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.vg</suffix>
+		<description>Virgin Islands, British</description>
+		<servers>
+			<server>
+				<name>adamsnames.vg</name>
+				<address>whois.adamsnames.tc</address>
+				<webinterface>http://www.adamsnames.vg/whois/</webinterface>
+				<online>http://www.adamsnames.vg/</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.vi</suffix>
+		<description>Virgin Islands, U.S.</description>
+		<servers>
+			<server>
+				<name>nic.vi</name>
+				<address></address>
+				<webinterface>http://www.nic.vi/whoisform.htm</webinterface>
+				<online>http://www.nic.vi</online>
+				<description>Pinebrook Developments Ltd</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.vn</suffix>
+		<description>Vietnam</description>
+		<servers>
+			<server>
+				<name>vnnic.net.vn</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.vnnic.net.vn</online>
+				<description>Ministry of Post and Telematics</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.vu</suffix>
+		<description>Vanuatu</description>
+		<servers>
+			<server>
+				<name>vunic.vu</name>
+				<address></address>
+				<webinterface>http://www.vunic.vu/whois.htm</webinterface>
+				<online>http://www.vunic.vu</online>
+				<description>Telecom Vanuatu Limited</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.wf</suffix>
+		<description>Wallis and Futuna Islands</description>
+		<servers>
+			<server>
+				<name>nic.fr</name>
+				<address>whois.nic.fr</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.fr/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.ws</suffix>
+		<description>Samoa (f/k/a Western Samoa)</description>
+		<servers>
+			<server>
+				<name>samoanic.ws</name>
+				<address>whois.samoanic.ws</address>
+				<webinterface>http://whois.samoanic.ws</webinterface>
+				<online>http://www.samoanic.ws</online>
+				<description>Government of Western Samoa</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.ye</suffix>
+		<description>Yemen</description>
+		<servers>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.yt</suffix>
+		<description>Mayotte</description>
+		<servers>
+			<server>
+				<name>nic.fr</name>
+				<address>whois.nic.fr</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.fr/</online>
+				<description>AFNIC (NIC France) - Immeuble International</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.yu</suffix>
+		<description>Yugoslavia</description>
+		<servers>
+			<server>
+				<name>nic.yu</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.nic.yu</online>
+				<description>YUNET Association - Telecommunications Society</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.za</suffix>
+		<description>South Africa</description>
+		<servers>
+			<server>
+				<name>frd.ac.za</name>
+				<address>whois.frd.ac.za</address>
+				<webinterface></webinterface>
+				<online>http://www2.frd.ac.za/uninet/zadomains.htm</online>
+				<description>UNINET Project</description>
+				<rating>100</rating>
+			</server>
+
+		</servers>
+	</domain>
+    <domain>
+		<suffix>.zm</suffix>
+		<description>Zambia</description>
+		<servers>
+			<server>
+				<name>zamnet.zm</name>
+				<address></address>
+				<webinterface></webinterface>
+				<online>http://www.zamnet.zm</online>
+				<description>ZAMNET Communication Systems Ltd.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.zw</suffix>
+		<description>Zimbabwe</description>
+		<servers>
+	</servers>
+	</domain>
+
+	<domain>
+		<suffix>.arpa</suffix>
+		<description>Address and Routing Parameter Area</description>
+		<servers>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.aero</suffix>
+		<description>Air-transport industry</description>
+		<servers>
+			<server>
+				<name>information.aero</name>
+				<address>whois.aero</address>
+				<webinterface>http://www.information.aero/whois.php</webinterface>
+				<online>http://www.information.aero</online>
+				<description>Societe Internationale de Telecommunications Aeronautique S.C. (SITA SC)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.biz</suffix>
+		<description>Aero</description>
+		<servers>
+			<server>
+				<name>nic.biz</name>
+				<address>whois.biz</address>
+				<webinterface>http://www.whois.biz</webinterface>
+				<online>http://www.nic.biz</online>
+				<description>The .biz domain is restricted to businesses and is operated by NeuLevel, Inc.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+    	<domain>
+		<suffix>.com</suffix>
+		<description>Commerce organization</description>
+		<servers>
+			<server>
+				<name>crsnic.net</name>
+				<address>whois.crsnic.net</address>
+				<whois_prefix>domain </whois_prefix>
+				<webinterface></webinterface>
+				<online>http://crsnic.net</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+				<server>
+				<name>internic.net</name>
+				<address>whois.internic.net</address>
+				<whois_prefix>domain </whois_prefix>
+				<webinterface></webinterface>
+				<online>http://internic.net</online>
+				<description></description>
+				<rating>95</rating>
+			</server>
+			<server>
+				<name>iana.org</name>
+				<address>whois.iana.org</address>
+				<webinterface></webinterface>
+				<online>http://iana.org</online>
+				<description></description>
+				<rating>90</rating>
+			</server>
+			<server>
+				<name>directnic.com</name>
+				<address>whois.directnic.com</address>
+				<webinterface></webinterface>
+				<online>http://directnic.com</online>
+				<description></description>
+				<rating>85</rating>
+			</server>
+			<server>
+				<name>rx-name.net</name>
+				<address>whois.rx-name.net</address>
+				<webinterface>http://www.rx-name.net/whois.php</webinterface>
+				<online>http://www.rx-name.net</online>
+				<description>RX-Name</description>
+				<rating>80</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.au.com</suffix>
+				<description>au.com</description>
+				<servers>
+					<server>
+						<name>au.com</name>
+						<address>whois.au.com</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+			<domain>
+				<suffix>.gb.com</suffix>
+				<description>gb.com</description>
+				<servers>
+					<server>
+						<name>nomination.net</name>
+						<address>whois.nomination.net</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+			<domain>
+				<suffix>.uk.com</suffix>
+				<description>uk.com</description>
+				<servers>
+					<server>
+						<name>nomination.net</name>
+						<address>whois.nomination.net</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+			<domain>
+				<suffix>.se.com</suffix>
+				<description>se.com</description>
+				<servers>
+					<server>
+						<name>centralnic.com</name>
+						<address>whois.centralnic.com</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+		</domains>
+	</domain>
+
+
+
+	<domain>
+		<suffix>.coop</suffix>
+		<description>Cooperative associations</description>
+		<servers>
+			<server>
+				<name>nic.coop</name>
+				<address>whois.nic.coop</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.coop</online>
+				<description>DotCooperation LLC</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.edu</suffix>
+		<description>Educational organizations</description>
+		<servers>
+			<server>
+				<name>educause.edu</name>
+				<address>whois.educause.edu</address>
+				<webinterface></webinterface>
+				<online>http://educause.edu</online>
+				<description>EDUCAUSE. The .edu domain is reserved for postsecondary institutions accredited by an agency on the U.S. Department of Education's list of Nationally Recognized Accrediting Agencies and is registered only through Educause.</description>
+				<rating>100</rating>
+			</server>
+
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.gov</suffix>
+		<description>United States Government</description>
+		<servers>
+			<server>
+				<name>dotgov.gov</name>
+				<address>whois.dotgov.gov</address>
+				<webinterface></webinterface>
+				<online>http://www.dotgov.gov</online>
+				<description>General Services Administration. The .gov domain is reserved exclusively for the United States Government. It is operated by the US General Services Administration.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.info</suffix>
+		<description>Info domain</description>
+		<servers>
+			<server>
+				<name>nic.info</name>
+				<address>whois.afilias.net</address>
+				<webinterface>http://www.afilias.info/whois_search</webinterface>
+				<online>http://www.nic.info</online>
+				<description>Afilias Limited</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.int</suffix>
+		<description>Intergovernmental organization</description>
+		<servers>
+			<server>
+				<name>iana.org</name>
+				<address>whois.iana.org</address>
+				<webinterface></webinterface>
+				<online>http://www.iana.org/int-dom/int.htm</online>
+				<description>Internet Assigned Numbers Authority. The .int domain is used only for registering organizations established by international treaties between governments. It is operated by the IANA .int Domain Registry.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.mil</suffix>
+		<description>United States Military</description>
+		<servers>
+			<server>
+				<name>nic.mil</name>
+				<address>whois.nic.mil</address>
+				<webinterface></webinterface>
+				<online>http://www.nic.mil/</online>
+				<description>DoD Network Information Center. The .mil domain is reserved exclusively for the United States Military. It is operated by the US DoD Network Information Center.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+	<domain>
+		<suffix>.museum</suffix>
+		<description>Museums</description>
+		<servers>
+			<server>
+				<name>musedoma.museum</name>
+				<address>whois.museum</address>
+				<webinterface>http://whois.museum/</webinterface>
+				<online>http://www.musedoma.museum</online>
+				<description>The .museum domain is reserved for museums and is sponsored by the Museum Domain Management Association.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.name</suffix>
+		<description>Individuals</description>
+		<servers>
+			<server>
+				<name>nic.name</name>
+				<address>whois.nic.name</address>
+				<webinterface>http://www.whois.name</webinterface>
+				<online>http://www.name</online>
+				<description>The .name domain is reserved for individuals and is operated by Global Name Registry</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+	<domain>
+		<suffix>.net</suffix>
+		<description>Network</description>
+		<servers>
+			<server>
+				<name>internic.net</name>
+				<address>whois.internic.net</address>
+				<webinterface></webinterface>
+				<online>http://internic.net</online>
+				<description></description>
+				<rating>100</rating>
+			</server>
+		</servers>
+		<domains>
+			<domain>
+				<suffix>.uk.net</suffix>
+				<description>uk.net</description>
+				<servers>
+					<server>
+						<name>nomination.net</name>
+						<address>whois.nomination.net</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+			<domain>
+				<suffix>.gb.net</suffix>
+				<description>gb.net</description>
+				<servers>
+					<server>
+						<name>nomination.net</name>
+						<address>whois.nomination.net</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+
+			<domain>
+				<suffix>.se.net</suffix>
+				<description>se.net</description>
+				<servers>
+					<server>
+						<name>centralnic.com</name>
+						<address>whois.centralnic.com</address>
+						<webinterface></webinterface>
+						<online></online>
+						<description></description>
+						<rating>100</rating>
+					</server>
+				</servers>
+			</domain>
+
+		</domains>
+	</domain>
+
+	<domain>
+		<suffix>.org</suffix>
+		<description>Organization</description>
+		<servers>
+			<server>
+				<name>pir.org</name>
+				<address>whois.pir.org</address>
+				<webinterface></webinterface>
+				<online>http://www.pir.org</online>
+				<description>Public Interest Registry (PIR)</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+
+	<domain>
+		<suffix>.pro</suffix>
+		<description>Professionals</description>
+		<servers>
+			<server>
+				<name>registrypro.pro</name>
+				<address>whois.registrypro.pro</address>
+				<webinterface></webinterface>
+				<online>http://www.registrypro.pro</online>
+				<description>Registry Services Corporation. The .pro domain is being established. It will be restricted to credentialed professionals and related entities and is operated by RegistryPro.</description>
+				<rating>100</rating>
+			</server>
+		</servers>
+	</domain>
+
+    <domain>
+		<suffix>ip</suffix>
+		<description>Ip addresses</description>
+		<servers>
+			<server>
+				<name>ARIN</name>
+				<address>whois.arin.net</address>
+				<webinterface>http://ws.arin.net/cgi-bin/whois.pl</webinterface>
+				<online>http://www.arin.net</online>
+				<description>ARIN (American Registry for Internet Numbers) - North America and Sub-Sahara Africa</description>
+				<rating>100</rating>
+			</server>
+			<server>
+				<name>ripe NCC</name>
+				<address>whois.ripe.net</address>
+				<webinterface>http://www.ripe.net/whois</webinterface>
+				<online>http://www.ripe.net</online>
+				<description>RIPE NCC (Reseaux IP Europeens) - Europe, the Middle East, Central Asia, and African countries located north of the equator</description>
+				<rating>90</rating>
+			</server>
+			<server>
+				<name>APNIC</name>
+				<address>whois.apnic.net</address>
+				<webinterface>http://www.apnic.net/apnic-bin/whois.pl</webinterface>
+				<online>http://www.apnic.net</online>
+				<description>APNIC (Asia Pacific Network Information Centre) - Asia/Pacific Region</description>
+				<rating>70</rating>
+			</server>
+			<server>
+				<name>LACNIC</name>
+				<address>whois.lacnic.net</address>
+				<webinterface>http://lacnic.net/cgi-bin/lacnic/whois</webinterface>
+				<online>http://www.lacnic.net</online>
+				<description>LACNIC (Regional Latin-American and Caribbean IP Address Registry)  Latin-America and some Caribbean Islands</description>
+				<rating>60</rating>
+			</server>
+
+		</servers>
+	</domain>
+
+</domains>
+<version>1.0</version>
+<copyright>lantricks.com</copyright>
+</whois_base>

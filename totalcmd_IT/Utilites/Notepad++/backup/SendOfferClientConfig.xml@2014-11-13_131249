@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SendOfferConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClientConnection>https://soi-ur2.aptest.int/internal/client-ws</ClientConnection>
+	<NetTimeoutSeconds>3000</NetTimeoutSeconds>
+
+	<Identity>InternalCer_06.02.14</Identity>
+	<ServerCertificateSubject xsi:type="xsd:string">CN=InternalCer_15.08.14, OU=ap, O=ap, L=ap, S=ap, C=ap</ServerCertificateSubject>
+	<ServerCertificateSerialNumber xsi:type="xsd:string">78 6e 2c 38</ServerCertificateSerialNumber>
+	<ServerCertificateSignatureAlgorithm xsi:type="xsd:string">GOST R 34.11/34.10-2001</ServerCertificateSignatureAlgorithm>
+	<ServerCertificateSubject xsi:type="xsd:string">CN=InternalCer_15.08.14, OU=ap, O=ap, L=ap, S=ap, C=ap</ServerCertificateSubject>
+
+	<ClientCertificateSubject xsi:type="xsd:string">C=RU, S=dad, L=dad, O=dad, OU=dad, CN=TES_Skyrim, E=dad</ClientCertificateSubject>
+	<ClientCertificateSerialNumber xsi:type="xsd:string">2f 99 f4 20 00 02 00 06 75 91</ClientCertificateSerialNumber>
+	<ClientCertificateSignatureAlgorithm xsi:type="xsd:string">GOST R 34.11/34.10-2001</ClientCertificateSignatureAlgorithm>
+	<ClientCertificateIssuer xsi:type="xsd:string">CN=Test Center CRYPTO-PRO, O=CRYPTO-PRO, C=RU, E=info@cryptopro.ru</ClientCertificateIssuer>
+
+	<UserLogin>tes5</UserLogin>
+	<OperationDate>2014-02-20</OperationDate>
+	<Maket>//30308:0220:900235:++
+(PSTKOME4):7::1:1:1:1:1:1:1:2:2:1:1:1:1:1:10:1:1:1:1:1:1:1:1:1:35:==</Maket>
+	<Sn>4454F2D3000200067EC2</Sn>
+
+</SendOfferConfig>
+
