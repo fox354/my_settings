@@ -23,3 +23,58 @@ Package Control.ca-certs/
 
 #IGNORE VIVALDI FILES
 #####################
+Application Cache
+Cache
+data_reduction_proxy_leveldb
+databases
+Extensions
+Extension Rules
+Extension State
+File System
+GPUCache
+IndexedDB
+JumpListIcons
+JumpListIconsOld
+Local App Settings
+Local Extension Settings
+Local Storage
+Managed Extension Settings
+Media Cache
+Pepper Data
+Service Worker
+Session Storage
+Storage
+Sync Extension Settings
+Thumbnails
+Web Applications
+Cookies-journal
+Current Session
+Current Tabs
+Extension Cookies
+Extension Cookies-journal
+Favicons-journal
+History Provider Cache
+History-journal
+Last Session
+Last Tabs
+Login Data
+Login Data-journal
+Network Action Predictor
+Network Action Predictor-journal
+Network Persistent State
+Origin Bound Certs
+Origin Bound Certs-journal
+Preferences
+QuotaManager
+QuotaManager-journal
+README
+Secure Preferences
+Shortcuts-journal
+Top Sites-journal
+TransportSecurity
+Visited Links
+Web Data
+Web Data-journal
+Bookmarks.bak
+Notes.bak
+Google Profile.ico
